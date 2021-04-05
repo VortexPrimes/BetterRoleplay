@@ -1,0 +1,11 @@
+name: BetterRoleplay
+main: me.vortexprimes.betterroleplay.Main
+version: 1.0
+author: VortexPrimes
+api-version: 1.13
+commands:
+  roleplay:
+  local:
+  localspy:
+
+
